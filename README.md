@@ -4,7 +4,11 @@ heroin-table
 What is this?
 -------------
 
-Table showing what percentage of drug-overdose deaths specify the drug, by state
+Table showing the percentage of drug-overdose death investigations that specify the drug involved, by state
+
+The story: http://www.nhregister.com/general-news/20140512/scope-of-nationwide-heroin-epidemic-unknown-drug-related-death-overdose-data-lacking
+
+![data table](screenshots/heroin.png)
 
 Credits
 ---------
