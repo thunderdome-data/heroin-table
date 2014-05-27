@@ -6,7 +6,7 @@ What is this?
 
 Table showing the percentage of drug-overdose death investigations that specify the drug involved, by state
 
-The story: http://www.nhregister.com/general-news/20140512/scope-of-nationwide-heroin-epidemic-unknown-drug-related-death-overdose-data-lacking
+This story ran on May 12, 2014: http://www.nhregister.com/general-news/20140512/scope-of-nationwide-heroin-epidemic-unknown-drug-related-death-overdose-data-lacking
 
 ![data table](screenshots/heroin.png)
 
